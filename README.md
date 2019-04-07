@@ -3,6 +3,10 @@
 ## Project tree
 
 * [codewars](./codewars)
+    * [kyu_7](./codewars/kyu_7)
+        * [python](./codewars/kyu_7/python)
+            * [mumbling](./codewars/kyu_7/php/mumbling.py)  
+            ``ZpglnRxqenU`` -> ``Z-Pp-Ggg-Llll-Nnnnn-Rrrrrr-Xxxxxxx-Qqqqqqqq-Eeeeeeeee-Nnnnnnnnnn-Uuuuuuuuuuu``
     * [kyu_8](./codewars/kyu_8)
         * [php](./codewars/kyu_8/php)
             * [even_or_odd](./codewars/kyu_8/php/even_or_odd.php)  
