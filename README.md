@@ -18,6 +18,8 @@
             * [mumbling](./codewars/kyu_7/php/mumbling.py)  
             ``ZpglnRxqenU`` -> ``Z-Pp-Ggg-Llll-Nnnnn-Rrrrrr-Xxxxxxx-Qqqqqqqq-Eeeeeeeee-Nnnnnnnnnn-Uuuuuuuuuuu``
         * [python](./codewars/kyu_7/python)
+            * [exes_and_ohs](./codewars/kyu_7/python/exes_and_ohs.py)  
+            Сравнить количество букв ``x`` и ``o`` в строке. Регистронезависимо
             * [complementary_dna](./codewars/kyu_7/python/complementary_dna.py)  
             Обменять буквы местами
             * [descending_order](./codewars/kyu_7/python/descending_order.py)  
