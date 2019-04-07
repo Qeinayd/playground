@@ -5,6 +5,8 @@
 * [codewars](./codewars)
     * [kyu_7](./codewars/kyu_7)
         * [python](./codewars/kyu_7/python)
+            * [get_the_middle_character](./codewars/kyu_7/python/get_the_middle_character.py)  
+            Вернуть две буквы посередине для строк с четной длиной и одну для строк с нечетной длиной
             * [mumbling](./codewars/kyu_7/php/mumbling.py)  
             ``ZpglnRxqenU`` -> ``Z-Pp-Ggg-Llll-Nnnnn-Rrrrrr-Xxxxxxx-Qqqqqqqq-Eeeeeeeee-Nnnnnnnnnn-Uuuuuuuuuuu``
     * [kyu_8](./codewars/kyu_8)
