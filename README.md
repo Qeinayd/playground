@@ -7,23 +7,23 @@
         * [php](./codewars/kyu_7/php)
             * [jaden_casing_strings](./codewars/kyu_7/php/jaden_casing_strings.php)  
             Начать каждое слова в строке с заглавной буквы
-            * [exes_and_ohs](./codewars/kyu_7/python/exes_and_ohs.py)  
+            * [exes_and_ohs](./codewars/kyu_7/php/exes_and_ohs.php)  
             Сравнить количество букв ``x`` и ``o`` в строке. Регистронезависимо
             * [complementary_dna](./codewars/kyu_7/php/complementary_dna.php)  
             Обменять буквы местами
             * [shortest_word](./codewars/kyu_7/php/shortest_word.php)  
             Вернуть длину наименьшего по длине слова в строке
-            * [highest_and_lowest](./codewars/kyu_7/python/highest_and_lowest.py)  
+            * [highest_and_lowest](./codewars/kyu_7/php/highest_and_lowest.php)  
             ```
             high_and_low("1 2 3 4 5")  # return "5 1"
             high_and_low("1 2 -3 4 5") # return "5 -3"
             high_and_low("1 9 3 4 -5") # return "9 -5"
             ```
-            * [vowel_count](./codewars/kyu_7/python/vowel_count.py)  
+            * [vowel_count](./codewars/kyu_7/php/vowel_count.php)  
             Вернуть количество букв ``a``, ``e``, ``i``, ``o`` и ``u`` в строке
-            * [get_the_middle_character](./codewars/kyu_7/python/get_the_middle_character.py)  
+            * [get_the_middle_character](./codewars/kyu_7/php/get_the_middle_character.php)  
             Вернуть две буквы посередине для строк с четной длиной и одну для строк с нечетной длиной
-            * [mumbling](./codewars/kyu_7/php/mumbling.py)  
+            * [mumbling](./codewars/kyu_7/php/mumbling.php)  
             ``ZpglnRxqenU`` -> ``Z-Pp-Ggg-Llll-Nnnnn-Rrrrrr-Xxxxxxx-Qqqqqqqq-Eeeeeeeee-Nnnnnnnnnn-Uuuuuuuuuuu``
         * [python](./codewars/kyu_7/python)
             * [exes_and_ohs](./codewars/kyu_7/python/exes_and_ohs.py)  
