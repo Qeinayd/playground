@@ -5,6 +5,8 @@
 * [codewars](./codewars)
     * [kyu_7](./codewars/kyu_7)
         * [php](./codewars/kyu_7/php)
+            * [complementary_dna](./codewars/kyu_7/php/complementary_dna.php)  
+            Обменять буквы местами
             * [shortest_word](./codewars/kyu_7/php/shortest_word.php)  
             Вернуть длину наименьшего по длине слова в строке
             * [highest_and_lowest](./codewars/kyu_7/python/highest_and_lowest.py)  
