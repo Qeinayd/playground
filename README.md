@@ -5,6 +5,8 @@
 * [codewars](./codewars)
     * [kyu_7](./codewars/kyu_7)
         * [php](./codewars/kyu_7/php)
+            * [shortest_word](./codewars/kyu_7/php/shortest_word.php)  
+            Вернуть длину наименьшего по длине слова в строке
             * [highest_and_lowest](./codewars/kyu_7/python/highest_and_lowest.py)  
             ```
             high_and_low("1 2 3 4 5")  # return "5 1"
