@@ -18,6 +18,8 @@
             * [mumbling](./codewars/kyu_7/php/mumbling.py)  
             ``ZpglnRxqenU`` -> ``Z-Pp-Ggg-Llll-Nnnnn-Rrrrrr-Xxxxxxx-Qqqqqqqq-Eeeeeeeee-Nnnnnnnnnn-Uuuuuuuuuuu``
         * [python](./codewars/kyu_7/python)
+            * [complementary_dna](./codewars/kyu_7/python/complementary_dna.py)  
+            Обменять буквы местами
             * [descending_order](./codewars/kyu_7/python/descending_order.py)  
             Собрать число из цифр в порядке убывания данного числа
             * [shortest_word](./codewars/kyu_7/python/shortest_word.py)  
