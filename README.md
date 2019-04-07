@@ -4,6 +4,9 @@
 
 * [codewars](./codewars)
     * [kyu_7](./codewars/kyu_7)
+        * [php](./codewars/kyu_7/php)
+            * [mumbling](./codewars/kyu_7/php/mumbling.py)  
+            ``ZpglnRxqenU`` -> ``Z-Pp-Ggg-Llll-Nnnnn-Rrrrrr-Xxxxxxx-Qqqqqqqq-Eeeeeeeee-Nnnnnnnnnn-Uuuuuuuuuuu``
         * [python](./codewars/kyu_7/python)
             * [highest_and_lowest](./codewars/kyu_7/python/highest_and_lowest.py)  
             ```
