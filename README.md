@@ -5,6 +5,8 @@
 * [codewars](./codewars)
     * [kyu_7](./codewars/kyu_7)
         * [php](./codewars/kyu_7/php)
+            * [jaden_casing_strings](./codewars/kyu_7/php/jaden_casing_strings.php)  
+            Начать каждое слова в строке с заглавной буквы
             * [exes_and_ohs](./codewars/kyu_7/python/exes_and_ohs.py)  
             Сравнить количество букв ``x`` и ``o`` в строке. Регистронезависимо
             * [complementary_dna](./codewars/kyu_7/php/complementary_dna.php)  
