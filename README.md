@@ -18,6 +18,8 @@
             * [mumbling](./codewars/kyu_7/php/mumbling.py)  
             ``ZpglnRxqenU`` -> ``Z-Pp-Ggg-Llll-Nnnnn-Rrrrrr-Xxxxxxx-Qqqqqqqq-Eeeeeeeee-Nnnnnnnnnn-Uuuuuuuuuuu``
         * [python](./codewars/kyu_7/python)
+            * [shortest_word](./codewars/kyu_7/python/shortest_word.py)  
+            Вернуть длину наименьшего по длине слова в строке
             * [highest_and_lowest](./codewars/kyu_7/python/highest_and_lowest.py)  
             ```
             high_and_low("1 2 3 4 5")  # return "5 1"
