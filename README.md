@@ -5,6 +5,12 @@
 * [codewars](./codewars)
     * [kyu_7](./codewars/kyu_7)
         * [python](./codewars/kyu_7/python)
+            * [highest_and_lowest](./codewars/kyu_7/python/highest_and_lowest.py)  
+            ```
+            high_and_low("1 2 3 4 5")  # return "5 1"
+            high_and_low("1 2 -3 4 5") # return "5 -3"
+            high_and_low("1 9 3 4 -5") # return "9 -5"
+            ```
             * [vowel_count](./codewars/kyu_7/python/vowel_count.py)  
             Вернуть количество букв ``a``, ``e``, ``i``, ``o`` и ``u`` в строке
             * [get_the_middle_character](./codewars/kyu_7/python/get_the_middle_character.py)  
