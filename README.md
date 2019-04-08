@@ -5,6 +5,8 @@
 * [codewars](./codewars)
     * [kyu_6](./codewars/kyu_6)
         * [php](./codewars/kyu_6/php)
+            * [multiples_of_3_or_5](./codewars/kyu_6/php/multiples_of_3_or_5.php)  
+            Найти сумму всех чисел от ``0``до ``N`` делящихся ``3`` или ``5``
             * [persistent_bugger](./codewars/kyu_6/php/persistent_bugger.php)  
             ```
             persistence(39) # returns 3, because 3*9=27, 2*7=14, 1*4=4
