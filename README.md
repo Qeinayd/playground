@@ -5,6 +5,8 @@
 * [codewars](./codewars)
     * [kyu_6](./codewars/kyu_6)
         * [php](./codewars/kyu_6/php)
+            * [array_dot_diff](./codewars/kyu_6/python/array_dot_diff.py)  
+            https://www.codewars.com/kata/array-dot-diff/
             * [bit_counting](./codewars/kyu_6/php/bit_counting.php)  
             Подсчитать количество единичек в битовом представлении числа
             * [find_the_odd_int](./codewars/kyu_6/php/find_the_odd_int.php)
