@@ -5,6 +5,8 @@
 * [codewars](./codewars)
     * [kyu_6](./codewars/kyu_6)
         * [python](./codewars/kyu_6/python)
+            * [bit_counting](./codewars/kyu_6/python/bit_counting.py)  
+            Подсчитать количество единичек в битовом представлении числа
             * [find_the_parity_outlier](./codewars/kyu_6/python/find_the_parity_outlier.py)  
             Найти единственно нечетное число, когда все четные или
             единственно четное число, когда все нечетные  
