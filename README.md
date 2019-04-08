@@ -5,6 +5,9 @@
 * [codewars](./codewars)
     * [kyu_6](./codewars/kyu_6)
         * [python](./codewars/kyu_6/python)
+            * [find_the_parity_outlier](./codewars/kyu_6/python/find_the_parity_outlier.py)  
+            Найти единственно нечетное число, когда все четные или
+            единственно четное число, когда все нечетные  
             * [persistent_bugger](./codewars/kyu_6/python/persistent_bugger.py)  
             ```
             persistence(39) # returns 3, because 3*9=27, 2*7=14, 1*4=4
