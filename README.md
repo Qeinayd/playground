@@ -5,6 +5,8 @@
 * [codewars](./codewars)
     * [kyu_6](./codewars/kyu_6)
         * [python](./codewars/kyu_6/python)
+            * [consecutive_strings](./codewars/kyu_6/python/consecutive_strings.py)  
+            https://www.codewars.com/kata/consecutive-strings/
             * [bit_counting](./codewars/kyu_6/python/bit_counting.py)  
             Подсчитать количество единичек в битовом представлении числа
             * [find_the_parity_outlier](./codewars/kyu_6/python/find_the_parity_outlier.py)  
