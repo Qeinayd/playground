@@ -5,6 +5,8 @@
 * [codewars](./codewars)
     * [kyu_6](./codewars/kyu_6)
         * [python](./codewars/kyu_6/python)
+            * [unique_in_order](./codewars/kyu_6/python/unique_in_order.py)  
+            Удалить из последовательности одиноковые идущие подряд значения
             * [consecutive_strings](./codewars/kyu_6/python/consecutive_strings.py)  
             https://www.codewars.com/kata/consecutive-strings/
             * [bit_counting](./codewars/kyu_6/python/bit_counting.py)  
