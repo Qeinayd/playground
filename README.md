@@ -5,6 +5,8 @@
 * [codewars](./codewars)
     * [kyu_6](./codewars/kyu_6)
         * [php](./codewars/kyu_6/php)
+            * [find_the_odd_int](./codewars/kyu_6/php/find_the_odd_int.php)
+            Найти число в массиве встречающиеся нечетное количество раз
             * [multiples_of_3_or_5](./codewars/kyu_6/php/multiples_of_3_or_5.php)  
             Найти сумму всех чисел от ``0``до ``N`` делящихся ``3`` или ``5``
             * [persistent_bugger](./codewars/kyu_6/php/persistent_bugger.php)  
