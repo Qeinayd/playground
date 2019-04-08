@@ -5,6 +5,8 @@
 * [codewars](./codewars)
     * [kyu_6](./codewars/kyu_6)
         * [python](./codewars/kyu_6/python)
+            * [array_dot_diff](./codewars/kyu_6/python/array_dot_diff.py)  
+            https://www.codewars.com/kata/array-dot-diff/
             * [unique_in_order](./codewars/kyu_6/python/unique_in_order.py)  
             Удалить из последовательности одиноковые идущие подряд значения
             * [consecutive_strings](./codewars/kyu_6/python/consecutive_strings.py)  
