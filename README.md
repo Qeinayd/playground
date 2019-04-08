@@ -5,6 +5,8 @@
 * [codewars](./codewars)
     * [kyu_6](./codewars/kyu_6)
         * [python](./codewars/kyu_6/python)
+            * [multiples_of_3_or_5](./codewars/kyu_6/python/multiples_of_3_or_5.py)  
+            Найти сумму всех чисел от ``0``до ``N`` делящихся ``3`` или ``5``
             * [find_the_odd_int](./codewars/kyu_6/python/find_the_odd_int.py)
             Найти число в массиве встречающиеся нечетное количество раз
     * [kyu_7](./codewars/kyu_7)
