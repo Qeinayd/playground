@@ -5,6 +5,8 @@
 * [codewars](./codewars)
     * [kyu_6](./codewars/kyu_6)
         * [php](./codewars/kyu_6/php)
+            * [duplicate_encoder](./codewars/kyu_6/php/duplicate_encoder.php)  
+            https://www.codewars.com/kata/duplicate-encoder/
             * [find_the_parity_outlier](./codewars/kyu_6/php/find_the_parity_outlier.php)  
             Найти единственно нечетное число, когда все четные или
             единственно четное число, когда все нечетные  
