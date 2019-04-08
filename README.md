@@ -3,6 +3,10 @@
 ## Project tree
 
 * [codewars](./codewars)
+    * [kyu_6](./codewars/kyu_6)
+        * [python](./codewars/kyu_6/python)
+            * [find_the_odd_int](./codewars/kyu_6/python/find_the_odd_int.py)
+            Найти число в массиве встречающиеся нечетное количество раз
     * [kyu_7](./codewars/kyu_7)
         * [php](./codewars/kyu_7/php)
             * [jaden_casing_strings](./codewars/kyu_7/php/jaden_casing_strings.php)  
