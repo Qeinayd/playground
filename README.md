@@ -5,6 +5,8 @@
 * [codewars](./codewars)
     * [kyu_6](./codewars/kyu_5)
         * [python](./codewars/kyu_5/python)
+            * [string_incrementer](./codewars/kyu_5/python/string_incrementer.py)  
+            https://www.codewars.com/kata/string-incrementer/
             * [moving_zeros_to_the_end](./codewars/kyu_5/python/moving_zeros_to_the_end.py)  
             https://www.codewars.com/kata/moving-zeros-to-the-end/
             * [simple_pig_latin](./codewars/kyu_5/python/simple_pig_latin.py)  
