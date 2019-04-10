@@ -3,8 +3,14 @@
 ## Project tree
 
 * [codewars](./codewars)
+    * [kyu_6](./codewars/kyu_5)
+        * [python](./codewars/kyu_5/python)
+            * [directions_reduction](./codewars/kyu_5/python/directions_reduction.py)  
+            https://www.codewars.com/kata/directions-reduction/
     * [kyu_6](./codewars/kyu_6)
         * [php](./codewars/kyu_6/php)
+            * [valid-braces](./codewars/kyu_6/php/valid-braces.php)  
+            https://www.codewars.com/kata/valid-braces/
             * [duplicate_encoder](./codewars/kyu_6/php/duplicate_encoder.php)  
             https://www.codewars.com/kata/duplicate-encoder/
             * [find_the_parity_outlier](./codewars/kyu_6/php/find_the_parity_outlier.php)  
