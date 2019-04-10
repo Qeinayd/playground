@@ -5,6 +5,8 @@
 * [codewars](./codewars)
     * [kyu_6](./codewars/kyu_5)
         * [python](./codewars/kyu_5/python)
+            * [moving_zeros_to_the_end](./codewars/kyu_5/python/moving_zeros_to_the_end.py)  
+            https://www.codewars.com/kata/moving-zeros-to-the-end/
             * [simple_pig_latin](./codewars/kyu_5/python/simple_pig_latin.py)  
             https://www.codewars.com/kata/simple-pig-latin/
             * [human_readable_time](./codewars/kyu_5/python/human_readable_time.py)  
