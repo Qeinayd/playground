@@ -5,6 +5,8 @@
 * [codewars](./codewars)
     * [kyu_6](./codewars/kyu_5)
         * [python](./codewars/kyu_5/python)
+            * [valid_parentheses](./codewars/kyu_5/python/valid_parentheses.py)  
+            https://www.codewars.com/kata/valid-parentheses/
             * [directions_reduction](./codewars/kyu_5/python/directions_reduction.py)  
             https://www.codewars.com/kata/directions-reduction/
     * [kyu_6](./codewars/kyu_6)
