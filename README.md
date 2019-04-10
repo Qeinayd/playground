@@ -5,6 +5,8 @@
 * [codewars](./codewars)
     * [kyu_6](./codewars/kyu_5)
         * [python](./codewars/kyu_5/python)
+            * [a_chain_adding_function.py](./codewars/kyu_5/python/a_chain_adding_function.py.py)  
+            https://www.codewars.com/kata/a-chain-adding-function/
             * [valid_parentheses](./codewars/kyu_5/python/valid_parentheses.py)  
             https://www.codewars.com/kata/valid-parentheses/
             * [directions_reduction](./codewars/kyu_5/python/directions_reduction.py)  
